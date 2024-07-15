@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LT3957AEUHE#PBF
+D DC/DC Cntrlr Single-OUT Flyback/Step Up 1200kHz Automotive 28-Pin QFN EP Tube
+K
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3957afa.pdf
+$ENDCMP
+#
+#End Doc Library

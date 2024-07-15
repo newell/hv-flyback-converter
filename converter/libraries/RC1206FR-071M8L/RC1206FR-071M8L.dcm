@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RC1206FR-071M8L
+D Thick Film Resistors - SMD 1.8 MOhms 250 mW 1206 1%
+K
+F https://www.yageo.com/upload/media/product/productsearch/datasheet/rchip/PYu-RC_Group_51_RoHS_L_12.pdf
+$ENDCMP
+#
+#End Doc Library

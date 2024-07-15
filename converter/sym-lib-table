@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "DA2032-ALD")(type "KiCad")(uri "${KIPRJMOD}/libraries/DA2032-ALD/DA2032-ALD.kicad_sym")(options "")(descr ""))
+  (lib (name "GRM43QR72J683KW01L")(type "KiCad")(uri "${KIPRJMOD}/libraries/GRM43QR72J683KW01L/GRM43QR72J683KW01L.kicad_sym")(options "")(descr ""))
+  (lib (name "GRM31CR60J107MEA8L")(type "KiCad")(uri "${KIPRJMOD}/libraries/GRM31CR60J107MEA8L/GRM31CR60J107MEA8L.kicad_sym")(options "")(descr ""))
+  (lib (name "RC1206FR-071M8L")(type "KiCad")(uri "${KIPRJMOD}/libraries/RC1206FR-071M8L/RC1206FR-071M8L.kicad_sym")(options "")(descr ""))
+)
