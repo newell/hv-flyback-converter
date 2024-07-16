@@ -2,6 +2,14 @@
 
 This electronics project is of a High Voltage Flyback Converter (LT3957A 4-6V input, 180V output).
 
+### PCBs
+
+Black PCBs from JLCPCB arrived:
+
+![hv-flyback-converter-pcbs](https://github.com/user-attachments/assets/bc1fd237-aca7-4899-8225-72b91a6d66ce)
+
+### Kicad 3D Model
+
 ![converter](https://github.com/user-attachments/assets/ff05fdf1-8a68-491c-8738-85f1796a200d)
 
 ![converter-back](https://github.com/user-attachments/assets/1fb1ddea-1eb6-4ab6-9950-1d53a96a088e)
