@@ -17,6 +17,8 @@ Here are some photos of the High Voltage Flyback Conveter that I hand soldered. 
 
 Black PCBs from JLCPCB arrived:
 
+**NOTE**: I accidentally forgot to check the box to specify the order number location and this is why the silk JLCJLCJLCJLC is still visible 🙈
+
 ![hv-flyback-converter-pcbs](https://github.com/user-attachments/assets/bc1fd237-aca7-4899-8225-72b91a6d66ce)
 
 ### Kicad 3D Model
