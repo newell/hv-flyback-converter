@@ -6,13 +6,15 @@ This electronics project is a High Voltage Flyback Converter (LT3957A 4-6V input
 
 Below are some photos of the High Voltage Flyback Conveter that I hand soldered.  Measured output is 180V, as simulated in the [LTSpice simulation](./ltspice).
 
-![LTSpiceHVFlybackConverter](https://github.com/user-attachments/assets/328c72a0-25d4-4062-a708-e6c2d76aafb1)
-
 ![PXL_20240717_055654892](https://github.com/user-attachments/assets/5922ead0-73a5-488d-98d9-59223c787acd)
 
 ![PXL_20240717_055703639](https://github.com/user-attachments/assets/c697fcc1-2b2b-4a36-8bf4-6460a33f36fa)
 
 ![PXL_20240717_055728283](https://github.com/user-attachments/assets/b0a2e9fc-2adb-4ef3-88cc-f23c831cb440)
+
+### Simulation
+
+![LTSpiceHVFlybackConverter](https://github.com/user-attachments/assets/328c72a0-25d4-4062-a708-e6c2d76aafb1)
 
 ### PCBs
 
